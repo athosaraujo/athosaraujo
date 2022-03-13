@@ -7,7 +7,7 @@
 <h1 align="center">Olá!, meu nome é Athos</h1>
 
 <p align="center">
-  <a href="https://github.com/ryanolivrdev">
+  <a href="https://github.com/athosaraujo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=athosaraujo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosaraujo&layout=compact&langs_count=7&theme=darcula"/> 
 </a>
