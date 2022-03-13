@@ -1,25 +1,20 @@
 <h4 align="center">
+ 
+![Revachol](https://github.com/athosaraujo/athosaraujo/blob/main/revachol.jpg)
+ 
+ </br>
+
+<h4 align="center">
 <h1 align="center">Olá!, meu nome é Athos</h1>
 
 <p align="center">
-  <a href="https://github.com/athosaraujo">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=athosaraujo&show_icons=true&include_all_commits=true&count_private=true&theme=darcula"
-    />
-  </a>
-  <a href="https://github.com/athosaraujo">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosaraujo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=darcula"
-    />
-  </a>
+  <a href="https://github.com/ryanolivrdev">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=athosaraujo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosaraujo&layout=compact&langs_count=7&theme=darcula"/> 
+</a>
 </p>
 
-
-<h3 align="center"> Estudando no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
+<h3 align="center"> Mestre de D&D, jogador de MTG, leitor compulsivo e estudante no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
 
 
 <h3 align="center">Contatos:</h3>
@@ -44,7 +39,7 @@
   </a>
 
 </p>
-<h3 align="center">Programador em:</h3>
+<h3 align="center">Aprendendo a programar em:</h3>
   <p align="center">
     
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
