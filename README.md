@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center"> Mestre de D&D, Jogador de MTG, Leitor compulsivo e estudante no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
+<h3 align="center"> Mestre de D&D, jogador de MTG, leitor compulsivo e estudante no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
 
 
 <h3 align="center">Contatos:</h3>
