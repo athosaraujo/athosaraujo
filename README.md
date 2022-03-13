@@ -2,7 +2,6 @@
  
 ![Revachol](https://github.com/athosaraujo/athosaraujo/blob/main/revachol.jpg)
  
- </br>
 
 <h4 align="center">
 <h1 align="center">Olá!, meu nome é Athos</h1>
