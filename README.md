@@ -1,4 +1,10 @@
 <h4 align="center">
+ 
+![Revachol](https://github.com/athosaraujo/athosaraujo/blob/main/revachol.jpg)
+ 
+ </br>
+
+<h4 align="center">
 <h1 align="center">Olá!, meu nome é Athos</h1>
 
 <p align="center">
@@ -18,8 +24,7 @@
   </a>
 </p>
 
-
-<h3 align="center"> Estudando no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
+<h3 align="center"> Mestre de D&D, Jogador de MTG, Leitor compulsivo e estudante no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
 
 
 <h3 align="center">Contatos:</h3>
@@ -44,7 +49,7 @@
   </a>
 
 </p>
-<h3 align="center">Programador em:</h3>
+<h3 align="center">Aprendendo a programar em:</h3>
   <p align="center">
     
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
