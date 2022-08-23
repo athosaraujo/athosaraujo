@@ -4,7 +4,7 @@
  
 
 <h4 align="center">
-<h1 align="center">Olá!, meu nome é Athos</h1>
+<h1 align="center">In dark times, should the stars also go out?</h1>
 
 <p align="center">
   <a href="https://github.com/athosaraujo">
@@ -13,7 +13,7 @@
 </a>
 </p>
 
-<h3 align="center"> Mestre de D&D, jogador de MTG, leitor compulsivo e estudante no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
+<h3 align="center"> Estudante de Engenharia da Computação no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
 
 
 <h3 align="center">Contatos:</h3>
@@ -25,7 +25,7 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=16348C"
     />
   </a>
-  <a href="https://twitter.com/rndmaccessmmry">
+  <a href="https://twitter.com/wickedsmthing">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=D5120E"
@@ -38,7 +38,7 @@
   </a>
 
 </p>
-<h3 align="center">Aprendendo a programar em:</h3>
+<h3 align="center">Tecnologias: </h3>
   <p align="center">
     
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
