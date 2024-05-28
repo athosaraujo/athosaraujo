@@ -25,7 +25,7 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=16348C"
     />
   </a>
-  <a href="https://twitter.com/wickedsmthing">
+  <a href="https://x.com/bombtheITind">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=D5120E"
@@ -38,20 +38,7 @@
   </a>
 
 </p>
-<h3 align="center">Tecnologias: </h3>
-  <p align="center">
-    
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-      <img src="https://cdn.discordapp.com/attachments/952355517794246706/952355714154766386/pngegg.png" width="40" height="40"/>
-   </a>
-    
-   <a href="https://www.ruby-lang.org/en/about/logo/">
-      <img src="https://cdn.discordapp.com/attachments/952355517794246706/952356196768157766/pngwing.com.png" width="40" height="40"/>
-   </a>
-    
-   <a href="https://www.python.org">
-      <img src="https://cdn.discordapp.com/attachments/952355517794246706/952356754946142219/2048px-Python-logo-notext.svg.png" width="40" height="40"/>
-   </a>
+
  
 </p>
 <h6 align="center"> @athosaraujo</h5>
