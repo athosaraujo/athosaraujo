@@ -6,12 +6,7 @@
 <h4 align="center">
 <h1 align="center">In dark times, should the stars also go out?</h1>
 
-<p align="center">
-  <a href="https://github.com/athosaraujo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=athosaraujo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosaraujo&layout=compact&langs_count=7&theme=darcula"/> 
-</a>
-</p>
+
 
 <h3 align="center"> Estudante de Engenharia da Computação no <a href="https://www.cesupa.br">Centro Universitário do Pará</h3>
 
