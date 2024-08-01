@@ -20,12 +20,7 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=16348C"
     />
   </a>
-  <a href="https://x.com/bombtheITind">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=D5120E"
-    />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/athos-araujo-127547234/">
     <img
          align="center"
