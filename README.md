@@ -20,8 +20,7 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=16348C"
     />
   </a>
- 
-  <a href="https://www.linkedin.com/in/athos-araujo-127547234/">
+  <a href="https://www.linkedin.com/in/athos-ara%C3%BAjo-127547234/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=F2AC29"
