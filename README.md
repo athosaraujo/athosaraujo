@@ -14,12 +14,6 @@
 <h3 align="center">Contatos:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahtoous/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=16348C"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/athos-ara%C3%BAjo-127547234/">
     <img
          align="center"
